@@ -20,5 +20,3 @@ Welcome! This repository contains my Certificates and Assignments.
 
 ---
 
-## 🌐 Live Website
-👉 https://your-username.github.io/repo-name/
