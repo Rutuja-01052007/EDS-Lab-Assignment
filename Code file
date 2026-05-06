@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Files</title>
+</head>
+
+<body style="font-family: Arial; text-align: center;">
+
+    <h1>My Files</h1>
+
+    <!-- Certificates -->
+    <h2>Certificates</h2>
+    <img src="python%20essential%201.png" width="300"><br><br>
+    <img src="python%20essential%201.png" width="300">
+
+    <!-- Assignments -->
+    <h2>Assignments</h2>
+    <a href="202501040178_Assignment%20No-1.pdf" target="_blank">
+        Open Assignment PDF
+    </a><br><br>
+
+    <a href="Codetantra%20Image.pdf" target="_blank">
+        Open Codetantra Image
+    </a><br><br>
+
+    <!-- Document -->
+    <h2>Video Link Document</h2>
+    <a href="Preskilet%20Video%20Link.docx" target="_blank">
+        Open Video Link File
+    </a>
+
+</body>
+</html>
