@@ -5,13 +5,16 @@ Welcome! This repository contains my Certificates and Assignments.
 ---
 
 ## 📜 Certificates
-- [Python Essential Certificate](python%20essential%201.png)
+![Certificate 1](python%20essential%201.jpeg)
+
+![Certificate 2](python%20essential%202.jpeg)
+
 
 ---
 
 ## 📚 Assignments
 - [Assignment No-1](202501040178_Assignment%20No-1.pdf)
-- [Codetantra Image (PDF)](Codetantra%20Image.pdf)
+[Codetantra File](Codetantra%20Image.pdf)
 
 ---
 
