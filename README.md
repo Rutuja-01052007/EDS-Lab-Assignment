@@ -2,9 +2,9 @@
 
 ## 📜 Certificates
 
-![Certificate 1](python%20essential%201.jpeg)
+![Certificate 1](python%20essential%201.png)
 
-![Certificate 2](python%20essential%202.jpeg)
+![Certificate 2](python%20essential%202.png)
 
 ---
 
