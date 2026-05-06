@@ -6,26 +6,23 @@
 
 <body style="font-family: Arial; text-align: center;">
 
-    <h1>My Files</h1>
+    <h1>My Files Repository</h1>
 
-    <!-- Certificates -->
     <h2>Certificates</h2>
 
     <img src="python essential 1.png" width="300"><br><br>
     <img src="python essential 2.png" width="300"><br><br>
 
-    <!-- Assignments -->
     <h2>Assignments</h2>
 
     <a href="202501040178_Assignment No-1.pdf" target="_blank">
         Open Assignment No-1
     </a><br><br>
 
-    <a href="Codetantra Image.pdf" target="_blank">
+    <a href="Codetantra Image.jpeg" target="_blank">
         Open Codetantra File
     </a><br><br>
 
-    <!-- Video Link -->
     <h2>Video Link</h2>
 
     <a href="Preskilet Video Link.docx" target="_blank">
