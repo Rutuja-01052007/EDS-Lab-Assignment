@@ -1,10 +1,24 @@
-# My Work Repository
+# 📂 My Files Repository
+
+Welcome! This repository contains my Certificates and Assignments.
+
+---
 
 ## 📜 Certificates
-- [Certificate 1](python essential 1.png)
-- [Certificate 2](python essential 2.jpeg)
+- [Python Essential Certificate](python%20essential%201.png)
+
+---
 
 ## 📚 Assignments
-- [Assignment 1](Assignments/assignment1.pdf)
-- [Codetantra](Codetantra Image.jpeg)
-- [Assignment Video](Preskilet Video link.docx)
+- [Assignment No-1](202501040178_Assignment%20No-1.pdf)
+- [Codetantra Image (PDF)](Codetantra%20Image.pdf)
+
+---
+
+## 🎥 Video Link Document
+- [Preskilet Video Link](Preskilet%20Video%20Link.docx)
+
+---
+
+## 🌐 Live Website
+👉 https://your-username.github.io/repo-name/
